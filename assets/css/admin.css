@@ -1,0 +1,57 @@
+/* ===== CSS FOR ADMIN INTERFACE ===== */
+.admin-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.card-admin {
+  background: var(--card-bg);
+  border-radius: 15px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+  padding: 30px;
+  margin-bottom: 30px;
+}
+
+.stats-card {
+  background: linear-gradient(135deg, var(--secondary-accent-sky-blue) 0%, var(--secondary-accent-soft-purple) 100%);
+  color: white;
+  border-radius: 15px;
+  padding: 25px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.stats-card h3 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.btn-admin {
+  background: var(--primary-accent);
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.btn-admin:hover {
+  background: var(--primary-accent-hover);
+  transform: translateY(-2px);
+}
+
+.table-admin {
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.table-admin thead {
+  background: var(--bg-secondary);
+  color: white;
+}
+
+.table-admin tbody tr:hover {
+  background: #f8f9fa;
+}

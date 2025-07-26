@@ -1,0 +1,23 @@
+/* ===== COLOR THEME ===== */
+:root {
+  /* Primary Colors */
+  --bg-primary: #1C1C28;
+  --bg-secondary: #181823;
+  --card-bg: #23232E;
+  --card-bg-lighter: #26263A;
+  
+  /* Accent Colors */
+  --primary-accent: #F4C430;
+  --primary-accent-hover: #FFD95E;
+  --secondary-accent-soft-purple: #9E8CFC;
+  --secondary-accent-sky-blue: #6FC1FF;
+  
+  /* Text Colors */
+  --text-primary: #FFFFFF;
+  --text-secondary: #A0A0B0;
+  --text-muted: #C0C0C0;
+  
+  /* Status Colors */
+  --success-color: #4CD964;
+  --danger-color: #FF5C5C;
+}
