@@ -187,6 +187,22 @@ Untuk detail lengkap schema database, lihat dokumentasi di folder `/docs/`.
 
 Project ini dibuat untuk keperluan akademik - Ujian Akhir Semester Pemrograman Web.
 
+## 🎥 Demo Video
+[▶️ Tautan Demo YouTube](https://youtu.be/dOJngQ9UwPc?si=gQ8gLd5wIAoiWV9F)
+
+---
+
+## 🌍 Penyelenggaraan
+[🔗 Link Hosting](https://wardina.mangaverse.my.id)
+
+**Login Info:**
+- **Admin:**  
+  - Username: `admin`  
+  - Password: `admin`
+- **User:**  
+  - Username: `user`  
+  - Password: `user`
+
 ## 👨‍💻 Author
 
 **Wardina Darmawan**
