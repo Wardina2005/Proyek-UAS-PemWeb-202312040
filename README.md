@@ -2,7 +2,7 @@
 
 Sebuah platform e-commerce modern untuk fashion dan lifestyle dengan fitur lengkap, antarmuka yang elegan, dan **KODE YANG SUDAH DIOPTIMASI** untuk performa maksimal.
 
-### 🎯 Konsolidasi Assets (From 8+ files to 2 files)
+### 🎯 Konsolidasi Assets 
 - **CSS Terpadu**: 
   - ✅ `main.css` (consolidated dengan CSS Variables)
 - **JavaScript Terpadu**:
@@ -128,8 +128,8 @@ $db = "hii_style";
 ```
 
 4. **Default Accounts**
-- **Admin**: username: `admin`, password: `admin123`
-- **User**: username: `user`, password: `123`
+- **Admin**: username: `admin`, password: `admin`
+- **User**: username: `user`, password: `user`
 
 ## 🔒 Security Features
 
